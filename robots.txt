@@ -1,0 +1,4 @@
+Sitemap: https://homermultitext.github.io/HmtArchive-guide/sitemap.xml
+
+User-agent: *
+Disallow:
