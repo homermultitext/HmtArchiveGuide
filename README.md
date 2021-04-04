@@ -1,2 +1,5 @@
+
 # HmtArchive-guide
-Guide to working with the HmtArchive.jl package and data in the HMT archive.
+
+
+Guide to using the `HmtArchive` package to work with data in the Homer Multitext project archive.
