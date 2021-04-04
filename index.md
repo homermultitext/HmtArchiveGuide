@@ -10,7 +10,7 @@
 
 The archival repository includes pluto notebooks illustrating usage of `HmtArchive`.) Its `Project.toml` file is already configured to use the library, so you can also easily work from a julia terminal started in that directory by activating and instantiating the environment. (In package mode, `activate .` and `instantiate`.)
 
-Then at the julia prompt, import libraries and instantiate an `Archive`:
+Then at the julia prompt, import libraries and instantiate an `Archive`.
 
 ```
 using HmtArchive

@@ -3,15 +3,15 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "HmtArchive"
+@def website_title = "The HmtArchive package"
 @def website_descr = "Documentation for the HmtArchive package"
-@def website_url   = "https://homermultitext.github.io/HmtArchive-guide/"
+@def website_url   = "https://homermultitext.github.io/HmtArchiveGuide/"
 
 @def author = "Neel Smith"
 
 @def mintoclevel = 2
 
-@def prepath = "HmtArchive-guide"
+@def prepath = "HmtArchiveGuide"
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise
