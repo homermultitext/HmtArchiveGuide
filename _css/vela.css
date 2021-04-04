@@ -1,3 +1,8 @@
+span.datelabel {
+  font-weight: 600;
+  padding-right: 10px;
+}
+
 /*
 small alterations for Franklin
 */
@@ -2519,7 +2524,8 @@ h2 {
 }
 
 h3 {
-  font-weight: 400;
+  font-weight: 300;
+  /*font-style: italic;*/
 }
 
 a {
@@ -2550,7 +2556,7 @@ strong {
 hr {
   height: 0;
   border: 0;
-  box-shadow: 0 0 5px 1px #2579c7;
+  /*box-shadow: 0 0 5px 1px #2579c7;*/
 }
 
 hr::after {
