@@ -34,7 +34,7 @@ jobs:
     - run: julia -e '
             using Pkg; 
             Pkg.develop(PackageSpec(url="https://github.com/homermultitext/HmtArchive.jl")); 
-            Pkg.instantiate()
+            Pkg.instantiate();
             Pkg.add(["NodeJS", "Franklin"]);
             using NodeJS; run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
